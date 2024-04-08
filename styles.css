@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .dad-info {
+    text-align: center;
+  }
+  
+  .dad-info img {
+    width: 200px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+  }
+  
+  .letters {
+    margin-top: 20px;
+  }
+  
+  .letter {
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
